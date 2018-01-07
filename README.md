@@ -4,4 +4,4 @@
 1. [Shadowsocks](https://github.com/shadowsocks)
 2. [Kcptun](https://github.com/xtaci/kcptun)
 
-详细的使用方法请参考 wiki
+详细的使用方法请参考 [wiki](https://github.com/cnproxy/documents/wiki)
