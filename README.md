@@ -23,7 +23,7 @@
 ## FQA
 
 Q: 设置正常,为什么无法正常使用?  
-A: 请先通过 [speedtest.net](http://speedtest.net) 进行网络测试. 如果你本地的网络太慢,只能考虑换个网络环境了.否则可能你真的不适合用这个东西  
+A: 请先通过 [speedtest.net](http://speedtest.net) 进行网络测试. 如果你本地的网络太慢,只能考虑换个网络环境了.否则可能你不适合用这个东西  
 
 Q: 我该如何需求帮助?  
 A: 请通过联系方式联系, 请提前准备好 [Teamviewer](https://www.teamviewer.com/download), 不知道 Teamviewer 是什么,请自行百度  
