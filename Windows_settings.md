@@ -44,8 +44,8 @@
 
 ## 相关开源项目
 
-1. [v2ray-core](https://github.com/v2ray/v2ray-core)
-2. [V2RayW](https://github.com/Cenmrev/V2RayW)
+ - [v2ray-core](https://github.com/v2ray/v2ray-core)
+ - [V2RayW](https://github.com/Cenmrev/V2RayW)
 
 
 [返回主页](README.md)
