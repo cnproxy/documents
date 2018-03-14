@@ -26,8 +26,8 @@
  - 绕过大陆地区: 勾选
  - 绕过大陆IP: 勾选
 8. 参数设置 -> v2rayN设置
-   - 开机自启动: 勾选
-   - 自定义GFWList地址: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+ - 开机自启动: 勾选
+ - 自定义GFWList地址: https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
 ### 套餐一设置
 1. 服务器 -> 添加[VMess]服务器,所需要的信息请从邮件中获取
