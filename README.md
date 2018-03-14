@@ -3,6 +3,8 @@
 
 &emsp;&emsp;2018年3月15日起, 全面切换全新服务器, 提供更加优质的`安全`服务, 并且将 Shadowsocks/Shodowsocks kcptun 服务升级为 V2ray/V2ray mkcp, Shadowsocks/Shodowsocks kcptun服务不再维护, 望各位新老朋友周知.已将各位所留的邮箱改为各位的QQ邮箱,避免服务邮件被拦截,请将`freedomain888@gmail.com`加入到你邮箱的白名单中.
 
+> 请自觉遵守大陆地区法律,本服务的目的也只是为了可以通过 [Google](https://www.google.com) 查询相关资料和 访问 [Github](https://github.com) 为主,出现任何问题,本人概不负责.
+
 ## 套餐 & 价格
 
 1. 套餐一: V2Ray TCP 70元/年
@@ -20,10 +22,10 @@
 
 ## FQA
 
-Q: 设置正常,为什么无法正常使用?
-A: 请先通过[speedtest.net](http://speedtest.net)进行网络测试. 如果你本地的网络太慢,只能考虑换个网络环境了.负责可能你真的不适合用这个东西
-Q: 我该如何需求帮助?
-A: 请通过联系方式联系, 请提前准备好 [Teamviewer](https://www.teamviewer.com/download), 不知道 Teamviewer 是什么,请自行百度
+Q: 设置正常,为什么无法正常使用?  
+A: 请先通过[speedtest.net](http://speedtest.net)进行网络测试. 如果你本地的网络太慢,只能考虑换个网络环境了.负责可能你真的不适合用这个东西  
+Q: 我该如何需求帮助?  
+A: 请通过联系方式联系, 请提前准备好 [Teamviewer](https://www.teamviewer.com/download), 不知道 Teamviewer 是什么,请自行百度  
 
 ## 联系方式
 
