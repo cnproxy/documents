@@ -27,4 +27,9 @@
 
 1. [Shadowsocks](https://github.com/shadowsocks)
 2. [Kcptun](https://github.com/xtaci/kcptun)
-3. [V2Ray](https://github.com/v2ray)
+3. [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+4. [V2Ray](https://github.com/v2ray)
+5. [v2ray-core](https://github.com/v2ray/v2ray-core)
+6. [V2RayW](https://github.com/Cenmrev/V2RayW)
+7. [V2RayX](https://github.com/Cenmrev/V2RayX)
+8. [v2rayNG](https://github.com/2dust/v2rayNG)
