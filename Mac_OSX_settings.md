@@ -29,6 +29,6 @@ V2ray 图标上右键 -> 服务器 选择不同的服务器即可
 
 ## 相关开源项目
 
-1. [V2RayX](https://github.com/Cenmrev/V2RayX)
+ - [V2RayX](https://github.com/Cenmrev/V2RayX)
 
 [返回主页](README.md)
