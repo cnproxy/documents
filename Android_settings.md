@@ -12,10 +12,10 @@
  ![v2rayNG_settings](pics/v2rayNG_settings.jpg)
 
 ## Others
+
+还有几款App可以使用,都可以在`Google Play Store`商店搜索下载, >>下面几款App需要自行研究,不提供支持
   
-  还有几款App可以使用,都可以在`Google Play Store`商店搜索下载, >>下面几款App需要自行研究,不提供支持
-  
-  - [V2Ray Go](https://github.com/xiaokangwang/V2RayGO)
+  - [V2Ray Go](https://github.com/xiaokangwang/V2RayGO)
   - [Actinium](https://github.com/V2Ray-Android/Actinium) 可以使`V2Ray Config`配置丰富,功能强大
   - [BifrostV](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv) 只在`Google Play Store`商店,未开源
   
@@ -23,6 +23,6 @@
 
  - [v2rayNG](https://github.com/2dust/v2rayNG)
  - [V2Ray Go](https://github.com/xiaokangwang/V2RayGO)
- - [Actinium](https://github.com/V2Ray-Android/Actinium) 可以使`V2Ray Config`配置丰富,功能强大
+ - [Actinium](https://github.com/V2Ray-Android/Actinium)
  
 [返回主页](README.md)
