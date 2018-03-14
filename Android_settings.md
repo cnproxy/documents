@@ -16,10 +16,10 @@
 > 需要自行研究如何配置使用,不提供支持
 
 还有几款App可以使用,都可以在`Google Play Store`商店搜索下载
-  
-  - [V2Ray Go](https://github.com/xiaokangwang/V2RayGO)
-  - [Actinium](https://github.com/V2Ray-Android/Actinium)
-  - [BifrostV](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
+
+  - [V2RayGo](https://github.com/xiaokangwang/V2RayGO)
+  - [Actinium](https://github.com/V2Ray-Android/Actinium)
+  - [BifrostV](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
   
 ## 相关开源项目
   
