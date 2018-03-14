@@ -9,7 +9,8 @@
 4. 下载并解压[v2ray-core](https://github.com/v2ray/v2ray-core/releases),将所有文件剪贴到 C:\Proxy\V2Ray 文件夹中
 5. 打开V2RayW.exe
 
-&emsp;&emsp;请根据你自己的Windows的bit来选择v2ray-core对应的zip包,不要选择,32位就下载`v2ray-windows-32.zip`,64位就下载`v2ray-windows-64.zip`,目录结构如图:
+&emsp;&emsp;请根据你自己的Windows的bit来选择v2ray-core对应的zip包,不要选择,32位就下载`v2ray-windows-32.zip`,64位就下载`v2ray-windows-64.zip`,目录结构如图: 
+![目录结构](pics/Windows_directory.jpg)
 
 ### 套餐一设置
 
