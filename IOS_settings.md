@@ -22,8 +22,8 @@
 ## Others 
 > 连接为美区连接,并不知道是否在国区上架
 
-1.[Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
-2.[Pepi](https://www.v2ray.com/itunes/us/pepi/id1283082051/)
+1. [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
+2. [Pepi](https://www.v2ray.com/itunes/us/pepi/id1283082051/)
  
 [返回主页](README.md)
 
