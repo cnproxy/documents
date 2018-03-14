@@ -8,6 +8,6 @@
  - 如果你的系统是MacOSX, 请选择手动输入(Type Manually),所需要的信息请从邮件中获取
 
 ## 相关开源项目
-1. [v2rayNG](https://github.com/2dust/v2rayNG)
+ - [v2rayNG](https://github.com/2dust/v2rayNG)
 
 [返回主页](README.md)
