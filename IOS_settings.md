@@ -15,7 +15,7 @@
 1. 登录`Apple ID`, 在 AppStore 中搜索软件 Kitsunebi 并且安装 (国区 30RMB/美区 4.99$)
 2. 打开`Kitsunebi`
  - 如果你的系统是Windows, 选中所要添加的服务器,`套餐一`和`套餐二`生成的QRcode是不同的, 点击Kitsunebi左上角的相机扫描二维码即可
- - 如果你的系统是MacOSX, 请选择 服务器(Servers) -> 右上角+号,输入内容
+ - 如果你的系统是MacOSX, 请选择 服务器(Servers) -> 右上角+号, 所需要的信息请从邮件中获取
 
 [返回主页](README.md)
 
