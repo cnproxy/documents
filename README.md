@@ -1,7 +1,7 @@
-# README
-作为一名`IT`攻城狮,很多时候需要从[Google](https://www.google.com)上进行搜索,或者从[Github](https://github.com)上找合适的开源项目等,我们就需要突破`GFW`(长城防火墙)的限制或者屏蔽,为了达到这个目的,我们可以使用github上一系列的解决方案,目前我们采用Shadowsocks + KCPTun,Shadowsocks用作网络代理, KCPTun 用于网络加速.可以参考官方的连接去了解各自的技术.
 
-1. [Shadowsocks](https://github.com/shadowsocks)
-2. [Kcptun](https://github.com/xtaci/kcptun)
+## Proxy Document
 
-详细的使用方法请参考 [wiki](https://github.com/cnproxy/documents/wiki)
+2018年3月15日起, 全面切换全新服务器, 提供更加优质的`安全`服务, 并且将 `Shadowsocks`/`Shodowsocks kcptun` 服务升级为`V2ray`/`V2ray mkcp`, 老的服务不再提供,不再维护,不再解决任何老服务的技术问题, 望各位新老朋友周知.已将各位所留的邮箱改为各位的QQ邮箱,避免服务邮件被拦截,请将`freedomain888@gmail.com`加入到你邮箱的白名单中.
+
+
+#### 套餐
