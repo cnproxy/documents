@@ -15,7 +15,8 @@
 1. [浏览器设置](Browser_settings.md)
 2. [Windows设置](Windows_settings.md)
 3. [Mac OSX设置](Mac_OSX_settings.md)
-4. [Android_settings](Android_settings.md)
+4. [Android设置](Android_settings.md)
+5. [IOS设置](IOS_settings.md)
 
 ## 联系方式
 
