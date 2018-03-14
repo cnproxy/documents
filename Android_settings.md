@@ -11,6 +11,10 @@
  
  ![v2rayNG_settings](pics/v2rayNG_settings.jpg)
 
+3. 右上角+号旁边,设置(settings). 如下图设置即可保证那些软件不走proxy
+
+  ![v2rayNG_settings](pics/v2rayNG_settings_2.jpg)
+
 ## Others
 
 > 需要自行研究如何配置使用,不提供支持
