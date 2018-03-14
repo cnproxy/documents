@@ -12,8 +12,18 @@
 
 ## 操作步骤
 
+> 注意IOS上的App我只是测试了Kitsunebi,其他2款应用我并未测试,不清楚是否支持所有协议,需要自己测试配置使用,不提供支持
+
 1. 登录`Apple ID`, 在 AppStore 中搜索软件 Kitsunebi 并且安装 (国区 30RMB/美区 4.99$)
-2. 打开`Kitsunebi`, 请选择 服务器(Servers) -> 右上角+号, 所需要的信息请从邮件中获取
+2. 打开`Kitsunebi`, 请选择 服务器(Servers) -> 右上角+号, 所需要的信息请从邮件中获取, 下图左边为 tcp, 右边为 kcp, 参考设置即可
+
+ ![Kitsunebi_settings](pics/Kitsunebi_settings.jpg)
+ 
+## Others 
+> 连接为美区连接,并不知道是否在国区上架
+
+1.[Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
+2.[Pepi](https://www.v2ray.com/itunes/us/pepi/id1283082051/)
  
 [返回主页](README.md)
 
