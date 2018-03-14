@@ -11,7 +11,7 @@
 
 ## 使用方法
 1. [浏览器设置](Browser_settings.md)
-
+2. [Windows设置](Windows_settings.md)
 ## 联系方式
 
 1. Email: freedomain888@gmail.com
