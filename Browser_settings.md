@@ -9,5 +9,7 @@
 2. 设置SwitchyOmega, 导入/导出(Import/Export) -> (在线恢复)Restore from online -> https://raw.githubusercontent.com/cnproxy/documents/master/OmegaOptions.bak -> 恢复(Restore) -> 应用选项(Apply Changes)
 3. 浏览器地址栏选择SwitchyOmega图标,切换到 auto switch
 
-
+## 相关开源项目
+ - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+ 
 [返回主页](README.md)
