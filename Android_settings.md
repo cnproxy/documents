@@ -13,7 +13,9 @@
 
 ## Others
 
-还有几款App可以使用,都可以在`Google Play Store`商店搜索下载, >>下面几款App需要自行研究,不提供支持
+>> 需要自行研究如何配置使用,不提供支持
+
+还有几款App可以使用,都可以在`Google Play Store`商店搜索下载
   
   - [V2Ray Go](https://github.com/xiaokangwang/V2RayGO)
   - [Actinium](https://github.com/V2Ray-Android/Actinium) 可以使`V2Ray Config`配置丰富,功能强大
