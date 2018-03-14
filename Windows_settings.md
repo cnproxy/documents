@@ -40,4 +40,10 @@
 
 从电脑右下角托盘中 右键点击 -> 服务器 选择不同的服务器即可
 
+## 相关开源项目
+
+1. [v2ray-core](https://github.com/v2ray/v2ray-core)
+2. [V2RayW](https://github.com/Cenmrev/V2RayW)
+
+
 [返回主页](README.md)
