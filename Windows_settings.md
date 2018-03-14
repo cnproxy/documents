@@ -9,9 +9,14 @@
 1. [浏览器设置](Brower_settings.md),此操作为必须.如已设置请跳过
 2. 创建C:\Proxy\V2Ray 文件夹, 注意文件夹可以根据需要来定,但请不要放在中文目录中
 3. 下载并解压[V2RayW](https://github.com/Cenmrev/V2RayW/releases),将V2RayW.exe文件剪贴到 C:\Proxy\V2Ray 文件夹中
-4. 下载并解压[v2ray-core](https://github.com/v2ray/v2ray-core/releases),将所有文件剪贴到 C:\Proxy\V2Ray 文件夹中    
+4. 下载并解压[v2ray-core](https://github.com/v2ray/v2ray-core/releases),将所有文件剪贴到 C:\Proxy\V2Ray 文件夹中
+
 ![目录结构](pics/Windows_directory.jpg)
-5. 打开V2RayW.exe
+
+5. 打开V2RayW 
+
+![V2RayW](pics/V2RayW.jpg)
+
 ### 套餐一设置
 
 
