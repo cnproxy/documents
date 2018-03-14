@@ -24,7 +24,7 @@
 ## 相关开源项目
   
   - [v2rayNG](https://github.com/2dust/v2rayNG)
-  - [V2RayGo](https://github.com/xiaokangwang/V2RayGO) 
-  - [Actinium](https://github.com/V2Ray-Android/Actinium)
+  - [V2RayGo](https://github.com/xiaokangwang/V2RayGO)
+  - [Actinium](https://github.com/V2Ray-Android/Actinium)
  
 [返回主页](README.md)
