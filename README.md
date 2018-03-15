@@ -31,8 +31,8 @@ A: 请先通过 [speedtest.net](http://speedtest.net) 进行网络测试. 如果
 Q: 我该如何需求帮助?  
 A: 请通过联系方式联系, 请提前准备好 [Teamviewer](https://www.teamviewer.com/download), 不知道 Teamviewer 是什么,请自行百度  
 
-Q: 为什么发了 Teamviewer 信息,得不到帮助?
-A:
+Q: 为什么发了 Teamviewer 信息,得不到帮助?  
+A: 你发截图,我眼神不好,只认文字,不认截图!  
 
 ## 联系方式
 
