@@ -8,14 +8,14 @@
 
 1. [浏览器设置](Brower_settings.md),此操作为必须.如已设置请跳过
 2. 创建C:\Proxy\V2Ray 文件夹, 注意文件夹可以根据需要来定,但请不要放在中文目录中
-3. 下载并解压[V2RayW](https://github.com/Cenmrev/V2RayW/releases),将V2RayW.exe文件剪贴到 C:\Proxy\V2Ray 文件夹中
+3. 下载并解压[v2rayN](https://github.com/2dust/v2rayN/releases),将v2rayN.exe文件剪贴到 C:\Proxy\V2Ray 文件夹中
 4. 下载并解压[v2ray-core](https://github.com/v2ray/v2ray-core/releases),将所有文件剪贴到 C:\Proxy\V2Ray 文件夹中
 
 ![目录结构](pics/Windows_directory.jpg)
 
-5. 打开V2RayW 
+5. 打开v2rayN 
 
-![V2RayW](pics/V2RayW.jpg)
+![v2rayN](pics/v2rayN.jpg)
 
 6. 参数设置 -> Core基础设置
  - 本地监听端口: 1080
@@ -45,7 +45,7 @@
 ## 相关开源项目
 
  - [v2ray-core](https://github.com/v2ray/v2ray-core)
- - [V2RayW](https://github.com/Cenmrev/V2RayW)
+ - [v2rayN](https://github.com/2dust/v2rayN)
 
 
 [返回主页](README.md)
