@@ -1,4 +1,4 @@
->>请大家尽量不要 Star,Watch,Fork 本仓库.珍爱生命
+>请大家尽量不要 Star,Watch,Fork 本仓库.珍爱生命
 
 ## 前言
 
