@@ -1,3 +1,4 @@
+>>请大家尽量不要 Star,Watch,Fork 本仓库.珍爱生命
 
 ## 前言
 
@@ -20,7 +21,7 @@
 4. [Android设置](Android_settings.md)
 5. [IOS设置](IOS_settings.md)
 
-## FQA
+## FAQ
 
 Q: 设置正常,为什么无法正常使用?  
 A: 请先通过 [speedtest.net](http://speedtest.net) 进行网络测试. 如果你本地的网络太慢,只能考虑换个网络环境了.否则可能你不适合用这个东西  
