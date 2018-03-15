@@ -41,7 +41,7 @@ A: 请通过联系方式联系, 请提前准备好 [Teamviewer](https://www.team
  - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
  - [V2Ray](https://github.com/v2ray)
  - [v2ray-core](https://github.com/v2ray/v2ray-core)
- - [V2RayW](https://github.com/Cenmrev/V2RayW)
+ - [v2rayN](https://github.com/2dust/v2rayN)
  - [V2RayX](https://github.com/Cenmrev/V2RayX)
  - [v2rayNG](https://github.com/2dust/v2rayNG)
  - [V2Ray Go](https://github.com/xiaokangwang/V2RayGO) 
