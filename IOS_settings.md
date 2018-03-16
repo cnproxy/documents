@@ -1,8 +1,8 @@
 ## IOS 设置
 
-> 下图的ShadowRocket不支持Vmess协议不能用,请不要购买,美区上架的ShadowRocket才可以用 
-> 下图的ShadowRocket不支持Vmess协议不能用,请不要购买,美区上架的ShadowRocket才可以用 
-> 下图的ShadowRocket不支持Vmess协议不能用,请不要购买,美区上架的ShadowRocket才可以用 
+> 下图的ShadowRocket不支持Vmess协议不能用,请不要购买,美区上架的ShadowRocket才可以用  
+> 下图的ShadowRocket不支持Vmess协议不能用,请不要购买,美区上架的ShadowRocket才可以用  
+> 下图的ShadowRocket不支持Vmess协议不能用,请不要购买,美区上架的ShadowRocket才可以用  
 
 ![ShadowRocket](pics/ShadowRocket.jpg)
 
