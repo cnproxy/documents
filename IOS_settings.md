@@ -1,5 +1,11 @@
 ## IOS 设置
 
+> 只有美区上架,大陆上架的不支持Vmess协议不能用, 下图的ShadowRocket不能用,请不要购买  
+> 只有美区上架,大陆上架的不支持Vmess协议不能用, 下图的ShadowRocket不能用,请不要购买  
+> 只有美区上架,大陆上架的不支持Vmess协议不能用, 下图的ShadowRocket不能用,请不要购买  
+
+![ShadowRocket](pics/ShadowRocket.jpg)
+
 > 建议大家能注册一个美区的`Apple ID`, 毕竟大陆目前的环境一旦审查到了,软件就会被强制从大陆市场下架, 
 由于美区和国区`Apple ID`不通用, 所以软件需要再次购买. 最好是到美区购买. 要是怕麻烦,或者实在不会. 直接在国区购买吧 可能不能更新. 换个设备之后因下架无法下载
 
@@ -22,7 +28,7 @@
 ## Others 
 > 链接地址为美区连接,并不知道是否在国区上架
 
-1. [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) 只有美区上架,大陆上架的不支持Vmess协议不能用
+1. [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)
 2. [Pepi](https://www.v2ray.com/itunes/us/pepi/id1283082051/)
  
 [返回主页](README.md)
