@@ -1,5 +1,3 @@
-## Telegram
-
 ### Telegram 维基百科
   - EN_US: https://en.wikipedia.org/wiki/Telegram_(messaging_service)  
   - ZH_CN: https://zh.wikipedia.org/wiki/Telegram
