@@ -34,7 +34,7 @@ A: 请通过联系方式联系, 请提前准备好 [Teamviewer](https://www.team
 Q: 为什么发了 Teamviewer 信息,得不到帮助?  
 A: 你发截图,我眼神不好,只认文字,不认截图!  
 
-Q: 如何使用 Telegram ?  
+Q: Telegram 是什么,怎么用?  
 A: [Telegram](Telegram.md)  
 
 ## 联系方式
