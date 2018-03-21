@@ -4,6 +4,9 @@
   
 ### 注册账号
    
-   Telegram 注册需要手机端才可以注册,所以请下载手机端 Telegram, IOS可在AppStore中搜索, Andorid可以在Google Play Store中搜索,如果你的手机没有 Google Play Store, 可以去apkpure市场下载,[下载地址](https://apkpure.com/telegram/org.telegram.messenger)
+&emsp;&emsp;Telegram 注册需要手机端才可以注册,所以请下载手机端 Telegram, IOS可在AppStore中搜索, Andorid可以在Google Play Store中搜索,如果你的手机没有 Google Play Store, 可以去apkpure 市场下载,地址 https://apkpure.com/telegram/org.telegram.messenger
    
 ### Telegram 设置
+
+
+[返回主页](README.md)
