@@ -34,12 +34,13 @@ A: 请通过联系方式联系, 请提前准备好 [Teamviewer](https://www.team
 Q: 为什么发了 Teamviewer 信息,得不到帮助?  
 A: 你发截图,我眼神不好,只认文字,不认截图!  
 
+Q: 如何使用 Telegram ?  
+A: [Telegram](Telegram.md)  
+
 ## 联系方式
 
 1. Email: freedomain888@gmail.com
 2. Telegram: https://t.me/joinchat/GOnwQRKYJc2Q9Sp4ImIp3w
-
-[Telegram Download]https://apkpure.com/telegram/org.telegram.messenger
 
 ## 相关开源项目
 
