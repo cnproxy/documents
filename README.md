@@ -39,6 +39,8 @@ A: 你发截图,我眼神不好,只认文字,不认截图!
 1. Email: freedomain888@gmail.com
 2. Telegram: https://t.me/joinchat/GOnwQRKYJc2Q9Sp4ImIp3w
 
+[Telegram Download]https://apkpure.com/telegram/org.telegram.messenger
+
 ## 相关开源项目
 
  - [Shadowsocks](https://github.com/shadowsocks)
