@@ -23,14 +23,17 @@
 > 链接地址为美区连接,并不知道是否在国区上架
 
 1. [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) 
- - 不支持mkcp目前,也就是不支持套餐二.套餐二老老实实的用Kitsunebi,如果你在意速度的话,也可以用,会慢一些
-2. [Pepi](https://www.v2ray.com/itunes/us/pepi/id1283082051/)
+ - 不支持mkcp目前,也就是不支持套餐二.套餐二老老实实的用Kitsunebi,如果你不在意速度的话,也可以用,会慢一些
 
 > 下图的ShadowRocket不支持Vmess协议不能用,请不要购买,美区上架的ShadowRocket才可以用  
 > 下图的ShadowRocket不支持Vmess协议不能用,请不要购买,美区上架的ShadowRocket才可以用  
 > 下图的ShadowRocket不支持Vmess协议不能用,请不要购买,美区上架的ShadowRocket才可以用  
 
 ![ShadowRocket](pics/ShadowRocket.jpg)
+
+2. [Pepi](https://www.v2ray.com/itunes/us/pepi/id1283082051/)
+
+
 
 [返回主页](README.md)
 
